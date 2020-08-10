@@ -20,7 +20,7 @@
 <br />
 <br />
 ---
-![ikeman32's stats](<img align="left" alt="ikeman32's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikeman32&show_icons=true&hide_border=true" />)
+![ikeman32's stats](align="left" alt="ikeman32's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikeman32&show_icons=true&hide_border=true")
 <br />
 <br />
 
