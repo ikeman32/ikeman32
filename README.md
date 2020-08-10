@@ -21,6 +21,10 @@
 <br />
 ### Latest Youtube Posts
 <!-- YOUTUBE:START -->
+- [Conway's Game of Life](https://www.youtube.com/watch?v=HlYkO2XYI8c)
+- [Serve a React App Locally and Deploy to Your Website](https://www.youtube.com/watch?v=3wqwaiKtiFA)
+- [Have a RESTful API with JWT Authentication Built and Working in About a Minute](https://www.youtube.com/watch?v=NrL9jYgAjcw)
+- [Authenticating with Google using Okta Walk Through](https://www.youtube.com/watch?v=fuOMSySIq5I)
 <!-- YOUTUBE:END -->
 
 
