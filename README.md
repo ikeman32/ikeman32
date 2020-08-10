@@ -19,7 +19,8 @@
 
 <br />
 <br />
-### Latest Youtube Posts
+
+### Latest Youtube Posts:
 <!-- YOUTUBE:START -->
 - [Conway's Game of Life](https://www.youtube.com/watch?v=HlYkO2XYI8c)
 - [Serve a React App Locally and Deploy to Your Website](https://www.youtube.com/watch?v=3wqwaiKtiFA)
