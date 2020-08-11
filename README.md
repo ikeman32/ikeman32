@@ -10,7 +10,7 @@
 
 ### Languages and tools:
 
-<img src="https://img.icons8.com/color/64/000000/visual-studio.png"/>
+![<img src="https://img.icons8.com/color/64/000000/visual-studio.png"/>]
 <img src="https://img.icons8.com/plasticine/64/000000/react.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
 <img src="https://nodejs.org/static/images/logo.svg" height='64' width='64'/>
