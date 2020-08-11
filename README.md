@@ -11,11 +11,19 @@
 ### Languages and tools:
 
 <img src="https://img.icons8.com/color/64/000000/visual-studio.png"/>
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" />][js]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+<img src="https://img.icons8.com/plasticine/64/000000/react.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/>
+<img src="https://nodejs.org/static/images/logo.svg" height='64' width='64'/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/nolan/64/html-filetype.png"/>
+<img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
+<img src="https://img.icons8.com/color/64/000000/sass.png"/>
+<img src="http://lesscss.org/public/img/less_logo.png" height='64px' width='64px'/>
+<img src="https://img.icons8.com/color/64/000000/redux.png"/>
+<img src="https://img.icons8.com/color/64/000000/git.png"/>
+<img src="https://img.icons8.com/fluent/64/000000/github.png"/>
+<img src="https://img.icons8.com/color/64/000000/linux.png"/>
+<img src="https://avatars3.githubusercontent.com/u/13409222?s=200&v=4" height='64px' width='64px'/>
 
 <br />
 <br />
