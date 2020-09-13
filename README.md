@@ -31,6 +31,7 @@
 
 ### Latest Youtube Posts:
 <!-- YOUTUBE:START -->
+- [React Template for Electron.js](https://www.youtube.com/watch?v=M6iSydYSLIw)
 - [Conway's Game of Life](https://www.youtube.com/watch?v=HlYkO2XYI8c)
 - [Serve a React App Locally and Deploy to Your Website](https://www.youtube.com/watch?v=3wqwaiKtiFA)
 - [Have a RESTful API with JWT Authentication Built and Working in About a Minute](https://www.youtube.com/watch?v=NrL9jYgAjcw)
